@@ -3,11 +3,7 @@ pipeline {
 
     stages {
 
-        stage('Clone Repo') {
-            steps {
-                git 'https://github.com/Afreed7411/ci-ci-pipeline.git'
-            }
-        }
+       
 
         stage('Build Docker Image') {
             steps {
