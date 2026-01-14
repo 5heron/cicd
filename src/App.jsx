@@ -13,14 +13,14 @@ function App() {
     >
       <h1
         style={{
-          color: "#2563eb", // Ethnotech-style blue
+          color: "#2563eb", 
           fontSize: "50px",
           fontWeight: "700",
           fontFamily: "Segoe UI, Arial, sans-serif",
           letterSpacing: "1.2px"
         }}
       >
-        Welcome To Ethnotech!
+        Welcome To Ethnotech 123
       </h1>
     </div>
   );
