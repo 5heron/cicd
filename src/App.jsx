@@ -20,7 +20,7 @@ function App() {
           letterSpacing: "1.2px"
         }}
       >
-        Welcome To Ethnotech and sooraj taught me devops 123
+        Welcome To Ethnotech and sooraj the great
       </h1>
     </div>
   );
